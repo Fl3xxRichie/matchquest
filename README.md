@@ -1,6 +1,8 @@
 # MatchQuest Bot
 
-![FlexxRichie Banner](https://raw.githubusercontent.com/Fl3xxRichie/matchquest/img/banner.png)
+💡
+
+![FlexxRichie Banner](img/banner.png)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/airdrop3arn)
 [![GitHub](https://img.shields.io/badge/GitHub-Fl3xxRichie-red)](https://github.com/Fl3xxRichie)
